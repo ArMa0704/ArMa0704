@@ -9,6 +9,7 @@
 <div>
 
 ### Languages
+<head>
 <table>
     <tr>
         <th scope="col"> 3+ years </th>
@@ -36,6 +37,7 @@
 
 
 </table>
+</head>
 
 ### 3+ years
 
