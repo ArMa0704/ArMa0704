@@ -5,6 +5,7 @@
 - Fluent in English and French
 - Limited working proficiency in Italian
 
+<div>
 ### Tech Languages
 
 ## 3+ years
@@ -20,12 +21,9 @@
 ## Novice
 - SSH
 - PowerShell
-
-## Java
-
-<div>
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4252370" style='border:none;'></iframe>
 </div>
+
+
 
 
 <!--
