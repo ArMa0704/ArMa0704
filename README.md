@@ -1,6 +1,5 @@
 ## Arthur M. 
-- currently pursuing a Bachelor's degree in Data Science with a minor in Cybersecurity
-- regularly active on TryHackMe to improve in all aspects of Cybersec
+- pursuing a Bachelor's degree in Data Science with a minor in Cybersecurity
 - eager to apply my knowledge and expand it in any intership or project opportunities
 
 - Fluent in English and French
@@ -28,7 +27,7 @@
 
 
 <p align="center">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4252370" style='border:none;'></iframe>
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4252370" style='border:none;' clean = FALSE></iframe>
 </p>
 
 
