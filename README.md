@@ -9,7 +9,7 @@
 <div>
 
 ### Languages
-<table border = "2" width = "300px">
+<table>
     <tr>
         <th scope="col"> 3+ years </th>
         <th scope="col"> 1 - 3 years </th>
