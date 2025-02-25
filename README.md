@@ -25,10 +25,9 @@
 
 ## 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/ArMaHat314.png" alt="Your Image Badge" />
 
-<p align="center">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4252370" style='border:none;' clean = FALSE></iframe>
-</p>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4252370" style='border:none;' clean = FALSE></iframe>
 
 
 
