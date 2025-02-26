@@ -66,7 +66,7 @@
 </table>
 
 
-## 📜 Certification and Assessment Platforms
+## 🏅 Certification and Assessment Platforms
 <table>
     <tr>
         <th>TryHackMe Profile</th>
@@ -94,7 +94,7 @@
 ##### (updated Q1-2025)
 
 
-## Future Certification Goals
+## 📜 Future Certification Goals
 #### Short/Mid-Term
 - eLearnSecurity eJPT
 - TCM Security PJPT
