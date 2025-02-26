@@ -95,6 +95,8 @@
 
 ##### (updated Q1-2025)
 
+<br>
+
 ### Future Certification Goals
 #### Short/Mid-Term
 - eLearnSecurity eJPT
