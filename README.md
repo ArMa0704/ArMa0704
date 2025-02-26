@@ -95,7 +95,7 @@
 
 <br>
 
-### Future Certification Goals
+## Future Certification Goals
 #### Short/Mid-Term
 - eLearnSecurity eJPT
 - TCM Security PJPT
