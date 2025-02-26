@@ -39,7 +39,7 @@
     width=40
 />
 <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+    src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg"
     width=45
 />
 
