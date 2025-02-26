@@ -21,26 +21,26 @@
 <td>
 <img 
     src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" 
-    width = 40 
+    width = 80 
 />
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-    width=40
+    width=80
 />
 </td>
 
 <td>
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-    width=50
+    width=100
 />
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-    width=40
+    width=80
 />
 <img 
     src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg"
-    width=45
+    width=90
 />
 
 </td>
@@ -48,11 +48,11 @@
 <td>
 <img 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Unofficial_SSH_Logo.svg/1024px-Unofficial_SSH_Logo.svg.png?20220225235622"
-    width=40
+    width=80
 />
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
-    width=40
+    width=80
 />
 </td>
 
