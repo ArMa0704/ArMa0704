@@ -13,7 +13,7 @@
 
 <br>
 
-## Tool and Language Experience
+## 💻 Tool and Language Experience
 <table border="2" width = "200px">
     <tr>
         <th scope="col"> 📘 3+ years </th>
@@ -63,7 +63,7 @@
 </table>
 
 
-## Certification and Assessment Platforms
+## 📜 Certification and Assessment Platforms
 
 <table>
     <tr>
@@ -79,7 +79,7 @@
         <a/>
     </td>
     <td>
-        <a href="https://tryhackme.com/p/ArMaHat314">
+        <a href="https://www.hackerrank.com/profile/arthur_malcoura1">
             <img
                 src="HackerRank Badges/Python3S.png"
                 alt="Your Image Badge" 
