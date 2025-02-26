@@ -69,8 +69,6 @@
 
 
 ## 📜 Certification and Assessment Platforms
-##### (updated Q1-2025)
-
 <table>
     <tr>
         <th>TryHackMe Profile</th>
@@ -94,6 +92,8 @@
     </td>
 
 </table>
+
+##### (updated Q1-2025)
 
 ### Future Certification Goals
 #### Short/Mid-Term
