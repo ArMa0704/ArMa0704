@@ -51,6 +51,10 @@
     width=40
 />
 <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Unofficial_SSH_Logo.svg/1024px-Unofficial_SSH_Logo.svg.png?20220225235622"
+    width=40
+/>
+<img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
     width=40
 />
@@ -77,15 +81,6 @@
     </td>
     <td>
         <!-- Content for the second column -->
-        This is column two.
     </td>
 
 </table>
-
-
-### TryHackMe Profile (updated Q1-2025)
-<a href="https://tryhackme.com/p/ArMaHat314">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ArMaHat314.png" alt="Your        Image Badge" width=/>
-<a/>
-
-### HackerRank Badges
