@@ -72,7 +72,7 @@
             <img
                 src="https://tryhackme-badges.s3.amazonaws.com/ArMaHat314.png"
                 alt="Your Image Badge" 
-                width=/>
+                width=300px/>
         <a/>
     </td>
     <td>
