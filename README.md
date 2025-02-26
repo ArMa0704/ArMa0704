@@ -69,10 +69,11 @@
 
 
 ## 📜 Certification and Assessment Platforms
+##### (updated Q1-2025)
 
 <table>
     <tr>
-        <th>TryHackMe Profile (updated Q1-2025)</th>
+        <th>TryHackMe Profile</th>
         <th>HackerRank Badges</th>
     </tr>
     <td>
