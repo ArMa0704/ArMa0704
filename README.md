@@ -13,9 +13,9 @@
 ## Tool and Language Experience
 <table border="2" width = "200px">
     <tr>
-        <th scope="col"> 3+ years </th>
-        <th scope="col"> 1 - 3 years </th>
-        <th scope="col"> Novice </th>
+        <th scope="col"> 📘 3+ years </th>
+        <th scope="col"> 📗 1 - 3 years </th>
+        <th scope="col"> 📒 Novice </th>
     </tr>
     
 <td>
