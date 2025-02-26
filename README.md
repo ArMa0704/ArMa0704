@@ -73,7 +73,7 @@
 <table>
     <tr>
         <th>TryHackMe Profile (updated Q1-2025)</th>
-        <th>HackRank Badges</th>
+        <th>HackerRank Badges</th>
     </tr>
     <td>
         <a href="https://tryhackme.com/p/ArMaHat314">
