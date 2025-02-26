@@ -55,7 +55,7 @@
 
 </td>
 
-<td bgcolor="#fffd79">
+<td>
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg"
     width=40
