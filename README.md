@@ -11,12 +11,12 @@
 ## Tool and Language Experience
 <table border="2" width = "200px">
     <tr>
-        <th scope="col" style="bg-color:#386cff"> 3+ years </th>
-        <th scope="col" style="bg-color:#29f159"> 1 - 3 years </th>
-        <th scope="col" style="bg-color:#f4f12a"> Novice </th>
+        <th scope="col" bg-color="#386cff"> 3+ years </th>
+        <th scope="col" bg-color="#29f159"> 1 - 3 years </th>
+        <th scope="col" bg-color="#f4f12a"> Novice </th>
     </tr>
     
-<td style="bg-color:#7d9fff">
+<td bg-color="#7d9fff">
 <img 
     src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" 
     width = 40 
@@ -32,7 +32,7 @@
 
 </td>
 
-<td style="bg-color:#80e798">
+<td bg-color="#80e798">
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
     width=50
@@ -55,7 +55,7 @@
 
 </td>
 
-<td style="bg-color:#fffd79">
+<td bg-color="#fffd79">
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg"
     width=40
