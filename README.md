@@ -62,6 +62,25 @@
 
 ## Certification and Assessment Platforms
 
+<table>
+  <tr>
+    <td>
+        <a href="https://tryhackme.com/p/ArMaHat314">
+            <img
+                src="https://tryhackme-badges.s3.amazonaws.com/ArMaHat314.png"
+                alt="Your Image Badge" 
+                width=/>
+        <a/>
+      This is column one.
+    </td>
+    <td>
+      <!-- Content for the second column -->
+      This is column two.
+    </td>
+  </tr>
+</table>
+
+
 ### TryHackMe Profile (updated Q1-2025)
 <a href="https://tryhackme.com/p/ArMaHat314">
     <img src="https://tryhackme-badges.s3.amazonaws.com/ArMaHat314.png" alt="Your        Image Badge" width=/>
