@@ -11,8 +11,6 @@
 - Fluent in English and French
 - Limited working proficiency in Italian
 
-<br>
-
 ### Areas of Interest
 - Ethical Hacking / Penetration Testing
 - Red Teaming
