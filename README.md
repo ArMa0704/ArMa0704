@@ -1,5 +1,7 @@
 <link href="style.css" rel="stylesheet"/>
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 # Arthur M. 
 - Pursuing a Bachelor's degree in Data Science with a minor in Cybersecurity
 - Eager to apply my knowledge and expand it in any intership or project opportunities
@@ -21,10 +23,10 @@
     src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" 
     width = 40 
 />
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
-    width=40
-/>
+
+<i class="devicon-latex-original">
+</i>
+ 
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
     width=40
