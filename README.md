@@ -47,10 +47,6 @@
 
 <td>
 <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg"
-    width=40
-/>
-<img 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Unofficial_SSH_Logo.svg/1024px-Unofficial_SSH_Logo.svg.png?20220225235622"
     width=40
 />
