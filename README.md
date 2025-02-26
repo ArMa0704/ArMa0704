@@ -65,16 +65,16 @@
     width=40
 />
 
+<svg width="200" height="100">
+  <rect x="0" y="0" width="66" height="30" fill="#386cff" >
+  <rect x="66" y="0" width="66" height="30" fill="#29f159" />
+  <rect x="132" y="0" width="68" height="30" fill="#f4f12a" />
+</svg>
 </td>
 
 
 </table>
 
-<svg width="200" height="100">
-  <rect x="0" y="0" width="66" height="30" fill="#386cff" />
-  <rect x="66" y="0" width="66" height="30" fill="#29f159" />
-  <rect x="132" y="0" width="68" height="30" fill="#f4f12a" />
-</svg>
 
 ## Certification and Assessment Platforms
 
