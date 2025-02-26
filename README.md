@@ -63,7 +63,10 @@
 ## Certification and Assessment Platforms
 
 <table>
-  <tr>
+    <tr>
+        <th>TryHackMe Profile (updated Q1-2025)</th>
+        <th>HackRank Badges</th>
+    </tr>
     <td>
         <a href="https://tryhackme.com/p/ArMaHat314">
             <img
@@ -71,13 +74,12 @@
                 alt="Your Image Badge" 
                 width=/>
         <a/>
-      This is column one.
     </td>
     <td>
-      <!-- Content for the second column -->
-      This is column two.
+        <!-- Content for the second column -->
+        This is column two.
     </td>
-  </tr>
+
 </table>
 
 
