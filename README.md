@@ -13,6 +13,11 @@
 
 <br>
 
+### Areas of Interest
+- Ethical Hacking / Penetration Testing
+- Red Teaming
+- Network Security
+
 ## 💻 Tool and Language Experience
 <table border="2" width = "200px">
     <tr>
@@ -88,3 +93,14 @@
     </td>
 
 </table>
+
+### Future Certification Goals
+#### Short/Mid-Term
+- eLearnSecurity eJPT
+- TCM Security PJPT
+
+#### Long-Term
+- CEH Certification
+- GIAC PenTester Certification
+- CompTIA Certifications (Sec+, CySA, CASP, )
+- OffSec OSCP
