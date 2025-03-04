@@ -74,10 +74,10 @@
     </tr>
     <td>
         <a href="https://tryhackme.com/p/ArMaHat314">
-            <img
-                src="https://tryhackme-badges.s3.amazonaws.com/ArMaHat314.png"
+            <img 
+                src="https://tryhackme-badges.s3.amazonaws.com/ArMaHat314.png" 
                 alt="Your Image Badge" 
-                width=400px/>
+                width=400/>
         <a/>
     </td>
     <td>
