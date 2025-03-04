@@ -83,7 +83,7 @@
     <td>
         <a href="https://www.hackerrank.com/profile/arthur_malcoura1">
             <img
-                src="HackerRank Badges/Python3S.png"
+                src="HackerRank Badges/Python4S.png"
                 alt="Your Image Badge" 
                 width=80px/>
         <a/>
