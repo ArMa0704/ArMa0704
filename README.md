@@ -75,7 +75,7 @@
     <td>
         <a href="https://tryhackme.com/p/ArMaHat314">
             <img 
-                src="https://tryhackme-badges.s3.amazonaws.com/ArMaHat314.png" 
+                src="https://tryhackme-badges.s3.amazonaws.com/ArMaHat314.png?update=3" 
                 alt="Your Image Badge" 
                 width=400/>
         <a/>
