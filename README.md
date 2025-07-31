@@ -4,7 +4,7 @@
 
 # Arthur M.
 ### Academic and Professional Goals
-- Pursuing a Bachelor's degree in Data Science with a minor in Cybersecurity
+- Pursuing a Bachelor's degree in Data Science with a focus on Cybersecurity
 - Eager to apply my knowledge and expand it in any intership or project opportunities
 
 ### Communication
@@ -99,7 +99,7 @@
 - eLearnSecurity eJPT
 - TCM Security PJPT
 
-#### Long-Term
+#### Long-Term Options
 - CEH Certification
 - GIAC PenTester Certification
 - CompTIA Certifications (Sec+, CySA, CASP, )
